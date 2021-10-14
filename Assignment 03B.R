@@ -26,3 +26,5 @@ for (i in 1:END) {
 cat ("Number of votes for Biden: ", BIDEN, "\n")
 cat ("Number of votes for Trump: ", TRUMP)
 
+#-5 did not push data 45/50
+
