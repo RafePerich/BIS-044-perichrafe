@@ -22,3 +22,4 @@ df$Title <- replace(df$Title, df$Title=="Mayor-President", "Mayor")
 results <- count(df,df$Title)
 view(results)
 
+#100/100
